@@ -1,6 +1,6 @@
 ## Welcome HKAGhkTeam
+<img src="img_chania.jpg" width="460" height="345">
 
-<img src="<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
 
 
 
