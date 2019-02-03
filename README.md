@@ -1,7 +1,7 @@
 <img src="IMG_20190127_184038.jpg" width="50" height="50"> HKAGHKTEAM
 
-<img src="IMG_20190127_175456.jpg" width="1000" height="100">
+<img src="IMG_20190127_175456.jpg" width="3500" height="100">
 
-<img src="IMG_20190203_101715.jpg" width="1000" height="50">
+<img src="IMG_20190203_101715.jpg" width="2000" height="50">
 
 
