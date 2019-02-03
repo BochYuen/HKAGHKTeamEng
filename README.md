@@ -9,5 +9,5 @@
 <h1 style="background-color:MediumSeaGreen;">Join HKAGhkTeam</h1>
 <h1 style="background-color:MediumSeaGreen;"> contact </h1>
 
-
+© Copyright © 2018-2019 HKAG Team.
 Last updated Feb3 2019
