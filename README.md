@@ -10,7 +10,7 @@
 <h1 style="background-color:MediumSeaGreen;"> contact </h1>
 
 
-*cant tap anything now*
+*can't tap anything now*
 ------------------------
 
 
