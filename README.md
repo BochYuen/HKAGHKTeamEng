@@ -4,7 +4,8 @@
 
 
 
-<h1 style="background-color:MediumSeaGreen;">Video</h1>
+<h1 style="background-color:MediumSeaGreen;"><a href="https://hkaghkteam.github.io/JoinHKAGhkTeamEng/">Video</a>
+
 <h1 style="background-color:MediumSeaGreen;"><a href="http://hybrostud.io">Hybro</a>
 
 
@@ -20,3 +21,4 @@
 © Copyright © 2018-2019 HKAG Team.
 
 Last updated Feb3 2019
+https://hkaghkteam.github.io/JoinHKAGhkTeamEng/
