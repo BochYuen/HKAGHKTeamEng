@@ -12,7 +12,7 @@
 <h1 style="background-color:MediumSeaGreen;"> contact </h1>
 
 
-*can't tap anything now*
+*can't tap contact,Join HKAGHKTEAM and Video now*
 ------------------------
 
 
