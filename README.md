@@ -14,11 +14,11 @@
 
 
 *can't tap contact,Join HKAGHKTEAM now*
-------------------------
+
 
 
 
 © Copyright © 2018-2019 HKAG Team.
 
 Last updated Feb3 2019
-https://hkaghkteam.github.io/JoinHKAGhkTeamEng/
+
