@@ -16,7 +16,7 @@
 
 
 
-https://discord.gg/qp4DTVK
+
 
 © Copyright © 2018-2019 HKAG Team.
 
