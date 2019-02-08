@@ -12,7 +12,7 @@
 <h1 style="background-color:MediumSeaGreen;">Join HKAGhkTeam</h1>
 <h1 style="background-color:MediumSeaGreen;"> contact </h1>
 
-
+https://discord.gg/qp4DTVK
 
 
 
